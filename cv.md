@@ -30,6 +30,5 @@
     newStr = str.slice(0, maxlength - 3) + "...";
     return newStr;
      }
-     
     return str;
     }
